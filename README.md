@@ -1,9 +1,4 @@
 - Hi I am Rama Srinivasan
-I am a Senior QA Engineer
-Selenium-Cucumber
-Protractor-Jasmine
-Azure Devops
-Postman
 
 
 <!---
